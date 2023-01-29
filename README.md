@@ -1,6 +1,6 @@
 ## JANE LIANG - FULL-STACK WEB DEVELOPER 
 
-e
+
 👋 Hi, I’m Jane Liang, Welcome to my portfolio showcasing my experience in full-stack web development.
 
 
