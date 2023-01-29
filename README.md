@@ -17,9 +17,9 @@ I’m currently learning PHP to build dynamic web pages and improve my web devel
 href="mailto:janeliangbc@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/cocoandjane)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/cocoandjane)
 
-Checkout my [Portfolio](cocoandjane.come)
+Checkout my [Portfolio](http://cocoandjane.com)
 
 
 ### 🛠️ Technical stack:
