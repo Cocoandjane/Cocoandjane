@@ -14,8 +14,13 @@ I’m currently learning PHP to build dynamic web pages and improve my web devel
 
 
 ### Get in touch
+📩 janeliangbc@gmail.com
 
 
+### 🛠️ Languages and Tools :
+[![My Skills](https://skills.thijs.gg/icons?i=js,firebase,ts,react,php,docker,nodejs,markdown,mysql,mongodb,nextjs,postgres,prisma,figma,py)](https://skills.thijs.gg)
+
+<!-- [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg) -->
 
 <!---
 Cocoandjane/Cocoandjane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
