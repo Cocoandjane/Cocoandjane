@@ -13,7 +13,8 @@ My expertise lies in utilizing modern technologies and frameworks such as HTML, 
 I’m currently learning PHP to build dynamic web pages and improve my web development skills. I am also learning how to import data into a database using JavaScript and MySQL for efficient data management.
 
 
-📫 mail: janeliangbc@gmail.com
+### Get in touch
+
 
 
 <!---
