@@ -20,7 +20,7 @@ A mood tracking app built as a simple CRUD application using .NET minimal API wi
 
 [Go to the app](https://dotnet-api-mood.up.railway.app)
 
-cant click [code to be phsed]()
+[See code](https://github.com/sam-meech-ward-bcit/week3-Cocoandjane)
 </div>
 
 #### **ChatMe**
