@@ -13,9 +13,12 @@ I am currently studying ThreeJS to construct 3D visualizations and animations fo
 
 ### my recent projects
 #### **Lamda-serverless-md-notes**
+
+<div align="center">
 [Go to the app](https://lambda-md-notes.vercel.app)
 
 [See code](https://github.com/Cocoandjane/lambda-serverless)
+ </div>
 
 A Full stack server-less application that allows you to post Markdown notes. 
 The backend is developed with AWS Lamda serverless API, ASP.NET, and C#. and The app uses AWS-cognito for authentication and Cockroach-DB for database management. 
