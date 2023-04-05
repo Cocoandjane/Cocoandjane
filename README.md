@@ -16,6 +16,7 @@ I am currently studying ThreeJS to construct 3D visualizations and animations fo
 
 <div align="center">
 [Go to the app](https://lambda-md-notes.vercel.app)
+ [Go to the app](https://dotnet-api-mood.up.railway.app)
 
 [See code](https://github.com/Cocoandjane/lambda-serverless)
  </div>
