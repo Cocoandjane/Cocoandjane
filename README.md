@@ -16,17 +16,11 @@ I am currently studying ThreeJS to construct 3D visualizations and animations fo
 
 <div align="center">
 
-[Go to the app](https://dotnet-api-mood.up.railway.app)
-
-[See code](https://github.com/sam-meech-ward-bcit/week3-Cocoandjane)
-</div>
-
-
-<div align="center">
 [Go to the app](https://lambda-md-notes.vercel.app)
 
 [See code](https://github.com/Cocoandjane/lambda-serverless)
- </div>
+</div>
+
 
 A Full stack server-less application that allows you to post Markdown notes. 
 The backend is developed with AWS Lamda serverless API, ASP.NET, and C#. and The app uses AWS-cognito for authentication and Cockroach-DB for database management. 
