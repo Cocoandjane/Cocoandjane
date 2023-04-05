@@ -4,14 +4,23 @@
 👋 Hi, I’m Jane Liang. As a full-stack developer, I have a deep understanding of both the front-end and back-end aspects of web development and am able to build complete web applications from start to finish.
 
 
-My expertise lies in utilizing modern technologies and frameworks such as HTML, CSS, JavaScript, React, Next.js, ASP.NET, Node.js, and MySQL to create engaging and user-friendly web experiences. I am also well-versed in database design and optimization, ensuring that my applications are fast, secure, and scalable.
+I am skilled in using current technologies like HTML, CSS, JavaScript, React, Next.js, ASP.NET, Node.js, and MySQL to develop attractive and intuitive websites. I also have experience in designing and optimizing databases, ensuring that my apps are speedy, protected, and flexible.
 
 
-I’m currently learning PHP to build dynamic web pages and improve my web development skills. I am also learning how to import data into a database using JavaScript and MySQL for efficient data management.
+I am currently studying ThreeJS to construct 3D visualizations and animations for web applications.
 
 
 
 ### my recent projects
+#### **Lamda-serverless-md-notes**
+[Go to the app](https://lambda-md-notes.vercel.app)
+
+[See code](https://github.com/Cocoandjane/lambda-serverless)
+
+A Full stack server-less application that allows you to post Markdown notes. 
+The backend is developed with AWS Lamda serverless API, ASP.NET, and C#. and The app uses AWS-cognito for authentication and Cockroach-DB for database management. 
+Front end is built with Next.js, and the app uses markdown.js to convert markdown to html and tailwind for styling.
+
 #### **MoodAPI**
 
 A mood tracking app built as a simple CRUD application using .NET minimal API with Swagger for easy documentation. The front-end is developed using React and Vite, with Tailwind CSS for styling. The app allows users to easily create, read, update and delete their moods. It provides an intuitive and user-friendly interface, making it easy for users to track and manage their moods.
